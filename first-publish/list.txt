@@ -1,0 +1,6 @@
+What did we do in part 2?
+- Fixed login method
+- Added a menu for logged in user
+- Fixed some bugs
+
+Sorry, i dont have a version off the first part. But, i will update the script everytime. Thanks!
